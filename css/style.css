@@ -431,6 +431,9 @@ ul {
     width: 100%;
     margin-bottom: 20px;
   }
+  .gallery #item-2{
+    display: none;
+  }
 }
 .gallery img:hover {
   box-shadow: 0 0 32px #333;
