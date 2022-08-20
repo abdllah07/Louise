@@ -425,6 +425,13 @@ ul {
     margin-top: 200px!important;
   }
 }
+@media(max-width: 500px){
+  .gallery img{
+    height:20vh;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
 .gallery img:hover {
   box-shadow: 0 0 32px #333;
 }
