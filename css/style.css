@@ -841,6 +841,9 @@ footer .all-footer .on-out-site {
   padding-top: 100px;
 
 }
+footer .all-footer .besnik{
+  padding-top:50px;
+}
 }
 @media(max-width:500px){
   footer .all-footer .besnik ,
@@ -848,6 +851,7 @@ footer .all-footer .on-out-site ,
 footer .all-footer .contact ,
 footer .all-footer .resources{
 width: 100%;
+text-align: center;
 }
 footer .all-footer .besnik h6,
 footer .all-footer .besnik .icon,
@@ -888,10 +892,11 @@ footer .all-footer .contact p i{
  
 }
 footer .all-footer .contact .icon i{
-  padding: 0px 10px 0px 10px;
   background-color: #A6A9BE;
   text-align: center;
   margin-left: 10px;
+  margin-top:10px;
+  padding: 10px;
   font-size: 20px;
   color:black;
 
